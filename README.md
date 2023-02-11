@@ -6,5 +6,5 @@ $ ruby hello.rb
 
 # License
 MIT
-Test nano editor
-Test vim editor
+Added file
+
